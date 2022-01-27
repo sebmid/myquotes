@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 module github.com/sebmid/myqoutes
+=======
+module github.com/sebmid/myquotes
+>>>>>>> e962af5bd78d35336126cf56690dd8839b03ea57
 
 go 1.17
 
