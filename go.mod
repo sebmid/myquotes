@@ -1,4 +1,4 @@
-module github.com/sebmid/modul2-del-2
+module github.com/sebmid/myqoutes
 
 go 1.17
 
